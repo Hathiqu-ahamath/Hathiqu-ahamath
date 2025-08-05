@@ -24,5 +24,5 @@ Bachelor of Applied IT (BAIT) Student
 <img width="48" height="48" src="https://img.icons8.com/doodle/48/adobe-photoshop.png" alt="adobe-photoshop"/> <img width="48" height="48" src="https://img.icons8.com/doodle/48/adobe-illustrator.png" alt="adobe-illustrator"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/canva.png" alt="canva"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hathiqu-ahamath&bg_color=000000&color=7e6e63&line=861d13&point=c8beb6&area=true&hide_border=true)](https://github.com/Hathiqu-ahamath/github-readme-activity-graph)
+[![Hathiqu-ahamath github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hathiqu-ahamath&bg_color=000000&color=7e6e63&line=861d13&point=c8beb6&area=true&hide_border=true)](https://github.com/Hathiqu-ahamath/github-readme-activity-graph)
 
