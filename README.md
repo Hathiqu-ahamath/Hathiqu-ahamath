@@ -11,8 +11,11 @@ Bachelor of Applied IT (BAIT) Student
   </br>
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahamathhathiqu@gmail.com)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  <hr>
+  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+
+  
+<hr>
 
 
 ### I code in
